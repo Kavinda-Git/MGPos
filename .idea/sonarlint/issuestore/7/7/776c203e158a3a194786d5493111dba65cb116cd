@@ -1,0 +1,100 @@
+
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇªªÉ
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒŠ‰ùÿÿÿÿ
+p
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¶ÿ‹
+u
+java:S2293×"YReplace the type specification in this constructor call with the diamond operator ("<>").(èãöÇıÿÿÿÿ
+p
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇªªÉ
+p
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇªªÉ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¶ÿ‹
+u
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(èãöÇıÿÿÿÿ
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(€¶ÎÃøÿÿÿÿ
+p
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇªªÉ
+\
+java:S1192¨"FDefine a constant instead of duplicating this literal "HELLO" 7 times.(»Øç^
+j
+java:S1192¸"SDefine a constant instead of duplicating this literal "../Desktop/UCSMPOS" 3 times.(ıİ 
+a
+java:S1192G"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 3 times.(è”Èí
+~
+java:S1192ß"bDefine a constant instead of duplicating this literal "UCSM POS System: Printing service" 4 times.(òãûÿşÿÿÿÿ
+3
+java:S1643¤"Use a StringBuilder instead.(µ÷º¾
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÌÌæ£ÿÿÿÿÿ
+‘
+java:S1130&"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ÌÌæ£ÿÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ª”ÕÈ
+P	java:S125/"<This block of commented-out lines of code should be removed.(“’Š%
+K
+java:S1874K"0Remove this use of "getHours"; it is deprecated.(—ĞŠ°ıÿÿÿÿ
+M
+java:S1874L"2Remove this use of "getMinutes"; it is deprecated.(ìœ‘şÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(¬â
+Q	java:S125R"<This block of commented-out lines of code should be removed.(Ëçùä
+B
+java:S1905"&Remove this unnecessary cast to "int".(×å– şÿÿÿÿ
+=
+java:S1905‚"&Remove this unnecessary cast to "int".(ÓÅ˜º
+R	java:S125»"<This block of commented-out lines of code should be removed.(Éê³â
+R	java:S125À"<This block of commented-out lines of code should be removed.(™è½š
+Q	java:S125Ä"<This block of commented-out lines of code should be removed.(±Ñ¾
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(ãËçû
+W	java:S125È"<This block of commented-out lines of code should be removed.(ëò™úÿÿÿÿ
+M
+java:S2696ã"6Make the enclosing method "static" or remove this set.(•Œ«Ì
+R
+java:S2696ä"6Make the enclosing method "static" or remove this set.(åÑö×üÿÿÿÿ
+M
+java:S2696å"6Make the enclosing method "static" or remove this set.(ş†Öè
+L
+java:S2696æ"6Make the enclosing method "static" or remove this set.(ÓÏ¯
+R
+java:S2696ç"6Make the enclosing method "static" or remove this set.(ß´˜òÿÿÿÿÿ
+i
+java:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ë®ÅÅ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(¾É×øÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(šÈÖ³
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(œàõ¥úÿÿÿÿ
+W	java:S125ğ"<This block of commented-out lines of code should be removed.(¥÷ÎÌşÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(÷È±Ìşÿÿÿÿ
+W	java:S125Í"<This block of commented-out lines of code should be removed.(†€Ôşûÿÿÿÿ
+]
+java:S1075ı"ARefactor your code to get this URI from a customizable parameter.(©éÈêÿÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ä”Şâüÿÿÿÿ
+^	java:S125€"<This block of commented-out lines of code should be removed.(•†”‘ıÿÿÿÿ8óĞ’­‡1
+W	java:S125‚"<This block of commented-out lines of code should be removed.(Î°Ö½şÿÿÿÿ
+Y	java:S125†"<This block of commented-out lines of code should be removed.(ó‘Ì‹8ôĞ’­‡1
+Q	java:S125‰"<This block of commented-out lines of code should be removed.(±Ñ¾
+^	java:S125"<This block of commented-out lines of code should be removed.(ëò™úÿÿÿÿ8²ÓÈ¬‡1
+W	java:S125É"<This block of commented-out lines of code should be removed.(ŠÃÿşÿÿÿÿ
+Q	java:S125Ù"<This block of commented-out lines of code should be removed.(«×â
+Q	java:S125Ş"<This block of commented-out lines of code should be removed.(±Ñ¾
+R	java:S125à"<This block of commented-out lines of code should be removed.(ãËçû
+^	java:S125â"<This block of commented-out lines of code should be removed.(ëò™úÿÿÿÿ8Ñ’­‡1
+i
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(¯Ö‘È
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ôÖÍ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(šÈÖ³
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(œàõ¥úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¥÷ÎÌşÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(÷È±Ìşÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(†€Ôşûÿÿÿÿ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(¼íóÆøÿÿÿÿ
+T	java:S106î"9Replace this use of System.out or System.err by a logger.(‚†¢ªüÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(š°§«ÿÿÿÿÿ
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(¬—¯œ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(–´ö¿ûÿÿÿÿ
+R	java:S125ñ"<This block of commented-out lines of code should be removed.(Õè™Ë
+Q	java:S125õ"<This block of commented-out lines of code should be removed.(±Ñ¾
+Y	java:S125÷"<This block of commented-out lines of code should be removed.(ãËçû8Ÿªı¬‡1
+^	java:S125ù"<This block of commented-out lines of code should be removed.(ëò™úÿÿÿÿ8âí“­‡1

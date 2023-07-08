@@ -1,0 +1,67 @@
+
+l
+java:S1104"VMake cashierrec a static final constant or non-public and provide accessors if needed.(Áœ»©
+m
+java:S1104"WMake totalAmount a static final constant or non-public and provide accessors if needed.(“ˆƒ‡
+m
+java:S1104"RMake change a static final constant or non-public and provide accessors if needed.(‡º¨¨ùÿÿÿÿ
+p
+java:S1104"UMake payamount a static final constant or non-public and provide accessors if needed.(³–ÃÅüÿÿÿÿ
+q
+java:S1104"VMake purchaseid a static final constant or non-public and provide accessors if needed.(ë¾„ûúÿÿÿÿ
+k
+java:S1104"VMake buygetdata a static final constant or non-public and provide accessors if needed.(ßç¾H
+
+java:S1104"fMake saleitemsdatafromsaletable a static final constant or non-public and provide accessors if needed.(˜ªş±üÿÿÿÿ
+l
+java:S1104"VMake productids a static final constant or non-public and provide accessors if needed.( Ç‘©
+m
+java:S1104"WMake productqtys a static final constant or non-public and provide accessors if needed.(·ŠÇÈ
+m
+java:S1104"RMake slipno a static final constant or non-public and provide accessors if needed.(‚É«Çøÿÿÿÿ
+j
+java:S1104"TMake paidtype a static final constant or non-public and provide accessors if needed.(õùê—
+m
+java:S1104"WMake buygetpromo a static final constant or non-public and provide accessors if needed.(§§ß¿
+l
+java:S1104"VMake buygetitem a static final constant or non-public and provide accessors if needed.(ïœ•¿
+o
+java:S1104"TMake cardinfo a static final constant or non-public and provide accessors if needed.(¬¨æ±şÿÿÿÿ
+t
+java:S1104"^Make isIntegratedDevice a static final constant or non-public and provide accessors if needed.(šëÚì
+F
+java:S1444"0Make this "public static cashierrec" field final(Áœ»©
+G
+java:S1444"1Make this "public static totalAmount" field final(“ˆƒ‡
+G
+java:S1444",Make this "public static change" field final(‡º¨¨ùÿÿÿÿ
+J
+java:S1444"/Make this "public static payamount" field final(³–ÃÅüÿÿÿÿ
+K
+java:S1444"0Make this "public static purchaseid" field final(ë¾„ûúÿÿÿÿ
+E
+java:S1444"0Make this "public static buygetdata" field final(ßç¾H
+[
+java:S1444"@Make this "public static saleitemsdatafromsaletable" field final(˜ªş±üÿÿÿÿ
+F
+java:S1444"0Make this "public static productids" field final( Ç‘©
+G
+java:S1444"1Make this "public static productqtys" field final(·ŠÇÈ
+G
+java:S1444",Make this "public static slipno" field final(‚É«Çøÿÿÿÿ
+D
+java:S1444".Make this "public static paidtype" field final(õùê—
+G
+java:S1444"1Make this "public static buygetpromo" field final(§§ß¿
+F
+java:S1444"0Make this "public static buygetitem" field final(ïœ•¿
+I
+java:S1444".Make this "public static cardinfo" field final(¬¨æ±şÿÿÿÿ
+N
+java:S1444"8Make this "public static isIntegratedDevice" field final(šëÚì
+2
+java:S2386"Make this member "protected".(ßç¾H
+8
+java:S2386"Make this member "protected".(˜ªş±üÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(âŠ°ÿÿÿÿÿ

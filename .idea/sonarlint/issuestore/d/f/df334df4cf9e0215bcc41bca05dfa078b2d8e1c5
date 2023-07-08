@@ -1,0 +1,69 @@
+
+P
+java:S1141}"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+e	java:S116&"PRename this field "tf_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡÷«Õ
+l	java:S116)"RRename this field "tf_pass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é…§çùÿÿÿÿ
+m	java:S116,"SRename this field "bt_login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò“„¡ÿÿÿÿÿ
+l	java:S116/"WRename this field "bt_rdo_admin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø²¨
+m	java:S1165"YRename this field "bt_rdo_cashier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É©©a
+n
+java:S1450C"SRemove the "addr" field and declare it as a local variable in the relevant methods.(§Å¾ıÿÿÿÿ
+m
+java:S1450A"RRemove the "age" field and declare it as a local variable in the relevant methods.(Æ†´¦şÿÿÿÿ
+n
+java:S1450F"SRemove the "date" field and declare it as a local variable in the relevant methods.(°‡è›üÿÿÿÿ
+l
+java:S1450:"VRemove the "dbQuery" field and declare it as a local variable in the relevant methods.(º®Çƒ
+k
+java:S1450B"URemove the "gender" field and declare it as a local variable in the relevant methods.(ÀÄŒ
+i
+java:S1450E"SRemove the "mail" field and declare it as a local variable in the relevant methods.(åÊ­’
+i
+java:S1450@"SRemove the "name" field and declare it as a local variable in the relevant methods.(Ë¥¼
+l
+java:S1450D"QRemove the "ph" field and declare it as a local variable in the relevant methods.(º¸øúÿÿÿÿ
+k
+java:S1450<"URemove the "realId" field and declare it as a local variable in the relevant methods.(å”Àÿ
+k
+java:S1450="URemove the "realPw" field and declare it as a local variable in the relevant methods.(Ùº­…
+s
+java:S14509"XRemove the "resultSet" field and declare it as a local variable in the relevant methods.(¿ˆ°úÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Áóç
+2
+java:S1116S"Remove this empty statement.(¹Ş“ú
+h	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ò×Ëùÿÿÿÿ
+m
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼Ò×Ëùÿÿÿÿ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(à©üÿÿÿÿ
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+^
+java:S1858m"A"getText" returns a string, there's no need to call "toString()".(£†æ8 ²š®‡1
+c
+java:S1858n"A"getText" returns a string, there's no need to call "toString()".(á­Éğûÿÿÿÿ8¢²š®‡1
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(İëúûÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(Ïû
+N
+java:S1135€"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(•÷×éûÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Âˆøİ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(èü¾Œÿÿÿÿÿ
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(¾ÈÙ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(÷©÷Ğ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(³å·ùÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(áÍ‚øÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(Ïû
+T	java:S106À"9Replace this use of System.out or System.err by a logger.(•Ÿå´ÿÿÿÿÿ
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(•÷×éûÿÿÿÿ
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Âˆøİ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(ş´Î›ùÿÿÿÿ
+W	java:S125Ü"<This block of commented-out lines of code should be removed.(¦ç£ïùÿÿÿÿ
+T	java:S106è"9Replace this use of System.out or System.err by a logger.(âü‘üÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(û¬¶•
+R	java:S125"<This block of commented-out lines of code should be removed.(û¬¶•
+\
+java:S2147"ECombine this catch with the one at line 283, which has the same body.(ßÈ´
