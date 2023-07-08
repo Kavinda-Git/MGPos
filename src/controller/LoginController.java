@@ -92,7 +92,7 @@ public class LoginController{
 	    	  // Load the JDBC driver
 	    	Class.forName("com.mysql.jdbc.Driver"); System.out.println("Driver loaded");
 	    	  // Connect to a database
-	    	 Connection connection = DriverManager.getConnection ("jdbc:mysql://localhost:8889/ucsmpos","root","root");
+	    	 Connection connection = DriverManager.getConnection ("jdbc:mysql://localhost:8889/mgpos","root","root");
 	    	System.out.println("Database connected"); // Create a statement
 	    	   statement = connection.createStatement();
 	    	  // Execute a statement

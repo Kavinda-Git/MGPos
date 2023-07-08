@@ -80,7 +80,7 @@
 	<parameter name="CategoryDataset" class="java.lang.String"/>
 	<parameter name="ItemDataset" class="java.lang.String"/>
 	<parameter name="totalsaleitemcount" class="java.lang.Integer"/>
-<!--	<parameter name="cardcustomer" class="java.lang.Integer"/>-->
+	<parameter name="cardcustomer" class="java.lang.Integer"/>
 	<parameter name="cashpaidcustomer" class="java.lang.Integer"/>
 	<parameter name="initialsale" class="java.lang.String"/>
 	<parameter name="netsale" class="java.lang.String"/>
@@ -319,7 +319,7 @@
 				<textElement verticalAlignment="Middle">
 					<font fontName="Arial" size="10"/>
 				</textElement>
-<!--				<textFieldExpression><![CDATA[$P{cardcustomer}]]></textFieldExpression>-->
+				<textFieldExpression><![CDATA[$P{cardcustomer}]]></textFieldExpression>
 			</textField>
 			<textField>
 				<reportElement x="150" y="157" width="115" height="21" uuid="3b896e74-352e-448f-9381-15a465b5f2e3"/>

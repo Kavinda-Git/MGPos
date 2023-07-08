@@ -116,7 +116,7 @@
 	<parameter name="CategoryDateset" class="java.lang.String"/>
 	<parameter name="DailyDateset" class="java.lang.String"/>
 	<parameter name="totalsaleitemcount" class="java.lang.Integer"/>
-<!--	<parameter name="cardcustomer" class="java.lang.Integer"/>-->
+	<parameter name="cardcustomer" class="java.lang.Integer"/>
 	<parameter name="cashpaidcustomer" class="java.lang.Integer"/>
 	<parameter name="initialsale" class="java.lang.String"/>
 	<parameter name="netsale" class="java.lang.String"/>
@@ -217,7 +217,7 @@
 				<textElement textAlignment="Justified" verticalAlignment="Middle">
 					<font fontName="Arial" size="12" isItalic="false"/>
 				</textElement>
-<!--				<text><![CDATA[	This is the report of the sale for this month. It include the total sale amount, sold items count based on their category, cash pay count and cash pay count. Total sale amount is the total amount of sale (income) for this month. Total sale item count is the number of items (products) that are sold for this month.  Card paid customer refers the number of customer that are purchase buy card while cash paid customer refers the number of customer that are paid by cash. The initial sale amount is the total of calculated amount with the item price. The net sale amount is the actual sale amount that are already reduce with promotion (item promotion and card promotion). The promotion is the amount of money of the store that are provided to the customer as promotion or discount.]]></text>-->
+				<text><![CDATA[	This is the report of the sale for this month. It include the total sale amount, sold items count based on their category, cash pay count and cash pay count. Total sale amount is the total amount of sale (income) for this month. Total sale item count is the number of items (products) that are sold for this month.  Card paid customer refers the number of customer that are purchase buy card while cash paid customer refers the number of customer that are paid by cash. The initial sale amount is the total of calculated amount with the item price. The net sale amount is the actual sale amount that are already reduce with promotion (item promotion and card promotion). The promotion is the amount of money of the store that are provided to the customer as promotion or discount.]]></text>
 			</staticText>
 			<staticText>
 				<reportElement x="1" y="129" width="143" height="21" uuid="d72fb78e-592e-40cb-bb68-b58a808ba737"/>

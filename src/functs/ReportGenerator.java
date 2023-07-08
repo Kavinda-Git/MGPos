@@ -176,12 +176,12 @@ public class ReportGenerator {
 		param.put("slipno", Common.slipno);
 		param.put("paidtype", Common.paidtype);
 		param.put("buygetpromo", toPrintPromo);
-//		param.put("cardinfo", Common.cardinfo);
+		param.put("cardinfo", Common.cardinfo);
 
 		
 		
 		// Make sure the output directory exists.
-		File outDir = new File("../Desktop/UCSMPOS");
+		File outDir = new File("../Desktop/MGPOS");
 		outDir.mkdirs();
 
 		//JasperCompileManager.compileReportToFile( new File("").getAbsolutePath() + "/src/jaspertemplate/voucherprint.jrxml", new File("").getAbsolutePath() + "/src/jaspertemplate/voucherprint.jasper");
@@ -213,8 +213,8 @@ public class ReportGenerator {
 
 		// ExporterOutput
 		/*OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput(
-				"../Desktop/UCSMPOS/Voucher.pdf");*/
-		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput("/UCSMPOS/Voucher.pdf");
+				"../Desktop/MGPOS/Voucher.pdf");*/
+		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput("/MGPOS/Voucher.pdf");
 
 		// Output
 		exporter.setExporterOutput(exporterOutput);
@@ -229,7 +229,7 @@ public class ReportGenerator {
 		JasperViewer jasperViewer = new JasperViewer(jasperPrint, false);
 		jasperViewer.setVisible(true);
 		jasperViewer.setFitPageZoomRatio();
-		jasperViewer.setTitle("UCSM POS System: Printing service");
+		jasperViewer.setTitle("MG POS System: Printing service");
 		// jasperViewer.getIc
 		
 		Common.buygetdata.clear();
@@ -515,7 +515,7 @@ public class ReportGenerator {
 		param.put("promotion",""+promotion );
 		
 		// Make sure the output directory exists.
-		File outDir = new File("/UCSMPOS");
+		File outDir = new File("/MGPOS");
 		outDir.mkdirs();
 
 //		JasperReport jasperReport = (JasperReport) JRLoader.loadObject(new File(new File("").getAbsolutePath() +"/src/jaspertemplate/daily_report.jasper"));
@@ -541,7 +541,7 @@ public class ReportGenerator {
 		exporter.setExporterInput(exporterInput);
 
 		// ExporterOutput
-		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput("/UCSMPOS/daily_report.pdf");
+		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput("/MGPOS/daily_report.pdf");
 		// Output
 		exporter.setExporterOutput(exporterOutput);
 
@@ -554,7 +554,7 @@ public class ReportGenerator {
 		JasperViewer jasperViewer = new JasperViewer(jasperPrint, false);
 		jasperViewer.setVisible(true);
 		jasperViewer.setFitPageZoomRatio();
-		jasperViewer.setTitle("UCSM POS System: Printing service");
+		jasperViewer.setTitle("MG POS System: Printing service");
 		// jasperViewer.getIc
 
 	}
@@ -604,7 +604,7 @@ public class ReportGenerator {
 		
 
 		// Make sure the output directory exists.
-		File outDir = new File("/UCSMPOS");
+		File outDir = new File("/MGPOS");
 		outDir.mkdirs();
 
 		//JasperDesign jasperDesign = JRXmlLoader.load(new File("").getAbsolutePath() + "/src/jaspertemplate/popular_item_report.jasper");
@@ -627,7 +627,7 @@ public class ReportGenerator {
 
 		// ExporterOutput
 		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput(
-				"/UCSMPOS/Popular_item.pdf");
+				"/MGPOS/Popular_item.pdf");
 		// Output
 		exporter.setExporterOutput(exporterOutput);
 
@@ -1010,7 +1010,7 @@ public class ReportGenerator {
 		param.put("categorysale","Item Sale" );
 		
 		// Make sure the output directory exists.
-		File outDir = new File("/UCSMPOS");
+		File outDir = new File("/MGPOS");
 		outDir.mkdirs();
 
 		
@@ -1035,7 +1035,7 @@ public class ReportGenerator {
 
 		// ExporterOutput
 		OutputStreamExporterOutput exporterOutput = new SimpleOutputStreamExporterOutput(
-				"/UCSMPOS/monthly_report.pdf");
+				"/MGPOS/monthly_report.pdf");
 		// Output
 		exporter.setExporterOutput(exporterOutput);
 

@@ -40,7 +40,7 @@ public class MainAdminController {
 	private JFXButton bt_product;
 	
 //	 @FXML
-//	 private JFXButton bt_card;
+	 private JFXButton bt_card;
 
 	@FXML
 	private JFXButton bt_promotion;
@@ -79,7 +79,7 @@ public class MainAdminController {
 		assert bt_logout != null : "fx:id=\"bt_logout\" was not injected: check your FXML file 'Admin_panel.fxml'.";
 		assert common_pane != null : "fx:id=\"common_pane\" was not injected: check your FXML file 'Admin_panel.fxml'.";
 		assert bt_supplier != null : "fx:id=\"bt_supplier\" was not injected: check your FXML file 'Admin_panel.fxml'.";
-//		assert bt_card != null : "fx:id=\"bt_card\" was not injected: check your FXML file 'Admin_panel.fxml'.";
+		assert bt_card != null : "fx:id=\"bt_card\" was not injected: check your FXML file 'Admin_panel.fxml'.";
         
 
 		AnchorPane pane = null;
@@ -244,7 +244,6 @@ public class MainAdminController {
 		bt_logout.setDisable(false);
 		bt_supplier.setDisable(false);
 //		bt_card.setDisable(false);
-		
 	}
 	
 	@FXML
@@ -329,7 +328,7 @@ public class MainAdminController {
 //			bt_logout.setDisable(false);
 //			bt_popular.setDisable(false);
 //	    }
-//
+
 		@FXML
 		void onReportAction(ActionEvent event) {
 

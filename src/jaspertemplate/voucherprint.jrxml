@@ -275,7 +275,7 @@
 				<textElement textAlignment="Center">
 					<font size="12"/>
 				</textElement>
-				<text><![CDATA[Change]]></text>
+				<text><![CDATA[Change  Rs.]]></text>
 			</staticText>
 			<textField>
 				<reportElement positionType="Float" x="458" y="654" width="100" height="30" uuid="6e1e4e3a-3a7e-425d-a7ea-7e6e9f132832"/>
@@ -286,7 +286,7 @@
 				<textElement textAlignment="Center">
 					<font size="12"/>
 				</textElement>
-				<text><![CDATA[Pay]]></text>
+				<text><![CDATA[Pay  Rs.]]></text>
 			</staticText>
 			<textField>
 				<reportElement positionType="Float" x="459" y="622" width="99" height="30" uuid="e6435e31-265f-441d-b9db-75c150e9c4ca"/>
@@ -297,7 +297,7 @@
 				<textElement textAlignment="Center">
 					<font size="12"/>
 				</textElement>
-				<text><![CDATA[Total]]></text>
+				<text><![CDATA[Total  Rs.]]></text>
 			</staticText>
 		</band>
 	</detail>
